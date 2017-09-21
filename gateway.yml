@@ -4,5 +4,5 @@ spring:
 
 info:
   description:
-  url: "http://localhost:10001"
+  url: http://localhost:10001
 ---

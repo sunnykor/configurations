@@ -3,7 +3,9 @@ spring:
     name: gateway
   profiles:
     active: local
-
-
-
-
+---
+spring:
+  profiles: local
+    info:
+      description:
+      url: http://localhost:10001

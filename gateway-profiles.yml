@@ -1,0 +1,6 @@
+spring:
+  profiles: local
+  
+info:
+  description: gatway localhost
+  url: http://localhost:10001

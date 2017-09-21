@@ -6,6 +6,8 @@ spring:
 ---
 spring:
   profiles: local
-    info:
-      description:
-      url: http://localhost:10001
+
+info:
+  description:
+  url: http://localhost:10001
+---
